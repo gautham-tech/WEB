@@ -1,0 +1,40 @@
+h1{
+    background-color: rgb(0, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+
+.header {
+    background-color: rgb(255, 255, 0) ;;
+    display:flex;
+    justify-content: space-between;
+}
+
+.menu {
+    background-color: rgb(136, 255, 0);
+}
+
+.games{
+    background-color: rgb(255, 255, 0);
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item {
+    background-color: rgb(255, 72, 72);
+}
+
+.icons {
+    background-color: rgb(0, 0, 0);
+    display:flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(221, 221, 250);
+}
